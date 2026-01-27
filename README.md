@@ -57,32 +57,6 @@ Previously contributed to large-scale airline systems and cloud platforms for gl
 
 ## 🏢 Professional Experience
 
-Senior Software Engineer II — John Deere  
-_2021 — Present | Pune, India_
-
-- Designed & built scalable microservices using Java + Spring Boot
-- Developed, tested and supported mission-critical enterprise applications
-- Integrated systems using cloud-native patterns & messaging
-- Led debugging efforts and root-cause analysis in production environments
-- Modernized legacy components → improved maintainability & performance
-- Implemented CI/CD pipelines using GitHub Actions & Terraform
-- Deployed workloads on AWS (ECS, DynamoDB, OpenSearch, CloudWatch)
-- Added observability (Prometheus + Grafana + Micrometer) → faster issue detection
-- Mentored junior developers & supported knowledge sharing
-
-Software Engineer — Coforge Ltd.  
-_2018 — 2021 | Greater Noida, India_
-
-- Built REST APIs & backend modules for enterprise platforms
-- Contributed to airline systems including booking & operational dashboards
-- Improved performance & migrated workloads to AWS
-- Practiced TDD and Agile methodologies
-- Maintained CI/CD pipelines via Jenkins
-
----
-
-## Domain Work
-
 ✈️  Airline Systems (Virgin Australia Airlines)  
 Worked on large-scale operational & booking systems:
 
@@ -91,7 +65,7 @@ Worked on large-scale operational & booking systems:
 - Aircraft performance computation systems
 - Legacy migration & modernization to cloud environments
 
-Digital Customer & Enterprise Platforms
+🧑‍💼 Digital Customer & Enterprise Platforms (John Deere)
 
 Engineered backend components powering digital enterprise workflows:
 
