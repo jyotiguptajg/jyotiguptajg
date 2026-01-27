@@ -81,15 +81,26 @@ _2018 — 2021 | Greater Noida, India_
 
 ---
 
-## ✈️ Domain Work
+## Domain Work
 
-Airline Systems (Virgin Australia Airlines)  
+✈️  Airline Systems (Virgin Australia Airlines)  
 Worked on large-scale operational & booking systems:
 
 - Flight Information Display Systems (FIDS)
 - Charter booking APIs (government integrations)
 - Aircraft performance computation systems
 - Legacy migration & modernization to cloud environments
+
+Digital Customer & Enterprise Platforms
+
+Engineered backend components powering digital enterprise workflows:
+
+ - Designed end-to-end RESTful producer APIs for business-critical functions
+ - Migrated legacy data platforms to AWS PostgreSQL enabling scalability
+ - Built event-driven systems using pub-sub architecture
+ - Automated CI/CD pipelines using GitHub Actions, improving release velocity
+ - Performed system-wide integration & performance testing
+ - Deployed cloud-native workloads and instrumented observability
 
 ---
 
